@@ -94,6 +94,7 @@ p{
 .lawyer-bot-info img{
     position: relative;
     z-index: 1;
+    width: 140px;
 }
 .lawyer-bot-info h1{
     margin: 20px 0 30px;

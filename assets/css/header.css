@@ -30,6 +30,9 @@ header{
     align-items: center;
     justify-content: center;
 }
+.logo-fon img{
+    width: 22px;
+}
 .logo span{
     color: #000000;
     font-weight: 400;
