@@ -161,9 +161,11 @@ header{
     .logo {
         gap: 15px;
     }
-    .logo img{
-        width: 35px;
-        height: 35px;
+    .logo-fon{
+        width: 30px;
+        height: 30px;
+        padding: 7.5px;
+        border-radius: 8px;
     }
     .logo span {
         font-size: 15px;
