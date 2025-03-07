@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+.icon {
+    display               : inline-block;
+    height                : 1em;
+    width                 : 1em;
+    mask-size             : contain;
+    -webkit-mask-size     : contain;
+    mask-repeat           : no-repeat;
+    -webkit-mask-repeat   : no-repeat;
+    mask-position         : center;
+    -webkit-mask-position : center;
+    font-size             : 16px;
+    background-color: #2948FF;
+
+
+}
+
+
+.area-chart  {
+    mask-image: url(./area-chart.svg);
+    -webkit-mask-image: url(./area-chart.svg);
+}
+.been-here  {
+    mask-image: url(./beenhere.svg);
+    -webkit-mask-image: url(./beenhere.svg);
+}
+.icon-book{
+    mask-image: url(./book.svg);
+    -webkit-mask-image: url(./book.svg);
+}
+.verified{
+    mask-image: url(./verified.svg);
+    -webkit-mask-image: url(./verified.svg);
+}
+.card-travel{
+    mask-image: url(./card-travel.svg);
+    -webkit-mask-image: url(./card-travel.svg);
+}
+.icon-info{
+    mask-image: url(./info.svg);
+    -webkit-mask-image: url(./info.svg);
+}
+.article{
+    mask-image: url(./article.svg);
+    -webkit-mask-image: url(./article.svg);
+}
+.local-police{
+    mask-image: url(./local-police.svg);
+    -webkit-mask-image: url(./local-police.svg);
+}
+.icon-savings{
+    mask-image: url(./savings.svg);
+    -webkit-mask-image: url(./savings.svg);
+}
+.icon-rocket{
+    mask-image: url(./rocket.svg);
+    -webkit-mask-image: url(./rocket.svg);
+}
+.magnify{
+    mask-image: url(./magnify.svg);
+    -webkit-mask-image: url(./magnify.svg);
+}
+.ad-group{
+    mask-image: url(./ad-group.svg);
+    -webkit-mask-image: url(./ad-group.svg);
+}
+.icon-grid{
+    mask-image: url(./grid.svg);
+    -webkit-mask-image: url(./grid.svg);
+}
