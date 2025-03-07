@@ -949,6 +949,11 @@ footer{
         max-width: 100%;
         padding: 0;
     }
+   footer .logo-fon {
+        width: 40px;
+        height: 40px;
+        padding: 11px;
+    }
 }
 @media (max-width: 575px){
     .footer-menu a {
